@@ -13,8 +13,11 @@ This Data Analysis project aims to generate insight into the sales performance o
 The primary source of data used here is Data Sale.csv and this is an open source data that can be freely downloaded from an open source online such as keggle or FRED or any other data repository site.
 
 Tools Used
--Ms Excel for Data cleaning (Download here) - For Data collection
-For Data cleaning
--SQL Server (for querying and analysis)
--Power BI (for creating a report)
--Ms Power Point(for presentation)
+- Ms Excel for Data cleaning [Download Here](https://microsoft.com)
+  -  Data collection
+  - For Data cleaning
+1. Data Manipulation
+2. Data Munching
+- SQL Server (for querying and analysis)
+- Power BI (for creating a report)
+- Ms Power Point(for presentation)
