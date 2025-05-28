@@ -20,4 +20,16 @@ Tools Used
   2. Data Munching
 - SQL Server (for querying and analysis)
 - Power BI (for creating a report)
+
+  ### Data Cleaning and Preparation
+
+  in the initial phase of the Data cleaning and preparation, we perform the following  action;
+  1. Data loading and inspection
+  2. Handling missing variables
+
+     ### Data Analysis
+     This is where we include some basic lines of code or queries or even some of the DAX expressions used during your analysis.
+
+     ```
+     
 - Ms Power Point(for presentation)
