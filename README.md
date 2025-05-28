@@ -16,8 +16,8 @@ Tools Used
 - Ms Excel for Data cleaning [Download Here](https://microsoft.com)
   -  Data collection
   - For Data cleaning
-1. Data Manipulation
-2. Data Munching
+  1. Data Manipulation
+  2. Data Munching
 - SQL Server (for querying and analysis)
 - Power BI (for creating a report)
 - Ms Power Point(for presentation)
